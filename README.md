@@ -1,7 +1,9 @@
-### Hi there 👋  
+### Hello, My name is Daniel, I'm A Computer Engineer, that has been working as a Web developer.
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
+##
+
+<img align="" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 
 <!--
 **DanielDlc/DanielDlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
