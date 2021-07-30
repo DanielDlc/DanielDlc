@@ -1,4 +1,4 @@
-### Hello, My name is Daniel, I'm A Computer Engineer, that has been working as a Web developer.
+### Hello, My name is Daniel. <br> I'm A Computer Engineer, that has been working as a Web developer.
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 
