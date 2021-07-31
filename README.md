@@ -1,6 +1,10 @@
-### Hello, My name is Daniel. <br> I'm A Computer Engineer, that has been working as a Web developer.
+## Hello, My name is Daniel. 
 
+-🖥 I'm A Computer Engineer <br>
+-📚 I working as a Web developer
+<br><hr>
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
+<br><hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -15,10 +19,14 @@
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a>
-
+<br><hr>
+<div>
+<a href="https://www.linkedin.com/in/daniel-louro-costa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>  
+  
 <!--
 **DanielDlc/DanielDlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href = "dlc.engcomputacao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
