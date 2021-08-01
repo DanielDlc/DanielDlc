@@ -1,7 +1,7 @@
 ## Hello, My name is Daniel. 
 
-🖥 I'm A Computer Engineer <br>
-📚 I work as Web developer
+🖥 I'm a Computer Engineer <br>
+📚 I work as Web Developer
 <br><hr>
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
 <br><hr>
