@@ -4,7 +4,7 @@
 📚 I work as Software Enginner
 <br><hr>
 <p align="center" >
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="400" height="320" />
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="320" height="320" />
 </p>
 <br><hr>
 <h3 align="left">Languages and Tools:</h3>
